@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🧪 QA com 3 anos de experiência em testes web e mobile (iOS & Android)<br/>
+  🧪 QA com +3 anos de experiência em testes web e mobile (iOS & Android)<br/>
   💻 Especializando em testes automatizados com Cypress<br/>
   🚀 Entusiasta da qualidade, da automação e da experiência completa do usuário
 </p>
