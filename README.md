@@ -28,7 +28,7 @@
 
 ### 🌈 Sobre mim:
 
-- 👩‍🎓 22 anos | Formada em ADS | Estudante de Gestão de TI  
+- 👩‍🎓 23 anos | Formada em ADS | Estudante de Gestão de TI  
 - 👀 QA de verdade: testa com carinho e desconfiança 😄  
 - 📱 Testes manuais e automatizados em aplicações web e mobile  
 - 💡 Sempre buscando clareza, confiabilidade e boas práticas nos testes  
