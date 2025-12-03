@@ -38,14 +38,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=LisJustino&show_icons=true&theme=radical&title_color=8e44ad&icon_color=8e44ad&text_color=ffffff&bg_color=0d1117"
-    height="165px"
-  />
+  src="https://github-readme-stats.vercel.app/api?username=LisJustino&show_icons=true&theme=radical&title_color=8e44ad&icon_color=8e44ad&text_color=ffffff&bg_color=0d1117"
+  height="165px"
+/>
 
-  <img 
-    src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=LisJustino&layout=compact&theme=radical&title_color=8e44ad&text_color=ffffff&bg_color=0d1117"
-    height="165px"
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisJustino&layout=compact&theme=radical&title_color=8e44ad&text_color=ffffff&bg_color=0d1117"
+  height="165px"
+/>
 </p>
 
 ---
