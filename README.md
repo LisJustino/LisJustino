@@ -54,8 +54,9 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LisJustino/LisJustino/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/LisJustino/LisJustino/output/github-snake-elisa.svg" />
 </p>
+
 
 ---
 
