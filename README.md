@@ -17,7 +17,7 @@
 - 📱 Testes **iOS e Android**  
 - 🤖 Automação com **Cypress** e **Selenium**  
 - 💛 Amante de **JavaScript**  
-- 🚀 Aprendendo **Playwright**  
+- 🚀 Aprendendo **Playwright** e **Automação com Cursor IA**
 
 ---
 
