@@ -34,25 +34,6 @@
 
 ---
 
-<h2 align="center" style="color:#8e44ad;">📊 Estatísticas</h2>
-
-<p align="center">
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=LisJustino&show_icons=true&theme=radical&title_color=8e44ad&icon_color=8e44ad&text_color=ffffff&bg_color=0d1117"
-  height="165px"
-/>
-
-</p>
-<p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LisJustino&layout=compact&theme=radical&title_color=8e44ad&text_color=ffffff&bg_color=0d1117"
-  height="165px"
-/>
-
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/LisJustino/LisJustino/output/github-snake-elisa.svg" />
 </p>
